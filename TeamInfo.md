@@ -8,10 +8,10 @@
 | TeamName    |       Practice2.5      |
 | Captain     |        Haoran Li       |
 | Captain     | haoran10@illinois.edu  |
-| Member1     |        Kevin Pei       |
-| Member1     |   kevin2@illinois.edu  |
-| Member2     |     Ti-Chung Cheng     |
-| Member2     |  tichung3@illinois.edu |
+| Member1     |        Jimin Yang      |
+| Member1     |   jiminy2@illinois.edu |
+| Member2     |     Zhanwang Zhou      |
+| Member2     |  zhou124@illinois.edu  |
 | Member3     |        Yuhang Li       |
 | Member3     |   yuhang8@illinois.edu |
 
