@@ -12,8 +12,8 @@
 | Member1     |   kevin2@illinois.edu  |
 | Member2     |     Ti-Chung Cheng     |
 | Member2     |  tichung3@illinois.edu |
-| Member3     |                        |
-| Member3     |                        |
+| Member3     |        Yuhang Li       |
+| Member3     |   yuhang8@illinois.edu |
 
 ## Project Information
 
