@@ -25,4 +25,6 @@
 
 ## Project Summary
 
-This is a summary of the project!
+BirdSpotter is a bird check-in and sharing app that allows users to record and explore bird sightings. Users can upload bird photos, enter details such as time and location, and save their observations. The app provides descriptions and reference images for different bird species, helping users confirm their sightings. To improve accuracy, the app includes a feature that assists users in identifying the species before submission.
+
+A key feature of the app is an interactive map where users can view all recorded bird sightings. The map allows filtering by bird species, time, and location, making it easy for users to explore past observations. This project aims to create a simple and engaging platform for birdwatchers of all levels, from beginners to experienced enthusiasts. By sharing their sightings, users can contribute to a growing community database, making bird-watching more interactive and enjoyable.
