@@ -1,0 +1,88 @@
+.bird-detail-container {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: var(--spacing-xl);
+}
+
+.bird-header {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	gap: var(--spacing-xl);
+	margin-bottom: var(--spacing-xl);
+}
+
+.bird-image {
+	width: 100%;
+	height: 400px;
+	object-fit: cover;
+	border-radius: var(--border-radius);
+	box-shadow: var(--shadow);
+}
+
+.bird-info {
+	display: flex;
+	flex-direction: column;
+	gap: var(--spacing-md);
+}
+
+.bird-name {
+	font-size: 2rem;
+	font-weight: 600;
+	color: var(--text-primary);
+}
+
+.scientific-name {
+	font-size: 1.2rem;
+	font-style: italic;
+	color: var(--text-secondary);
+}
+
+.bird-description {
+	font-size: 1rem;
+	line-height: 1.6;
+	color: var(--text-primary);
+}
+
+.bird-stats {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+	gap: var(--spacing-md);
+	margin-top: var(--spacing-md);
+}
+
+.stat-item {
+	background: var(--surface);
+	padding: var(--spacing-md);
+	border-radius: var(--border-radius);
+	box-shadow: var(--shadow-sm);
+}
+
+.stat-label {
+	font-size: 0.9rem;
+	color: var(--text-secondary);
+	margin-bottom: var(--spacing-xs);
+}
+
+.stat-value {
+	font-size: 1.2rem;
+	font-weight: 500;
+	color: var(--text-primary);
+}
+
+.bird-map {
+	height: 400px;
+	margin-top: var(--spacing-xl);
+	border-radius: var(--border-radius);
+	overflow: hidden;
+	box-shadow: var(--shadow);
+}
+
+@media (max-width: 768px) {
+	.bird-header {
+		grid-template-columns: 1fr;
+	}
+
+	.bird-image {
+		height: 300px;
+	}
+}
