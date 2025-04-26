@@ -12,8 +12,8 @@ def get_db():
     if 'sqlite_db' not in flask.g:
         flask.g.db = mysql.connector.connect(
             host="localhost",
-            user="zhouzhanwang",
-            password="password",
+            user="root",
+            password="Lhr20010503!",
             database="411_Database"
         )
         print("Connected to MySQL database")
