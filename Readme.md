@@ -1,7 +1,7 @@
 # Team066-Practice2.5
 
-- Stage 4 final report is in the doc folder, and demo video link is inside that file.
-- In case of not able to access the file, use this shared link: https://drive.google.com/file/d/1ypGLAHxEASj7S9m7SksrKbGR2bkTdxTZ/view?usp=sharing
+- Stage 4 final report is in the doc folder, and the demo video link is inside that file.
+- In case of not being able to access the final report file, use this shared link: https://drive.google.com/file/d/1ypGLAHxEASj7S9m7SksrKbGR2bkTdxTZ/view?usp=sharing
 
 ## Prerequisites
 
