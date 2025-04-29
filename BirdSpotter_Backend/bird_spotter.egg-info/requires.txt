@@ -1,8 +1,0 @@
-arrow
-bs4
-Flask
-pycodestyle
-pydocstyle
-pylint
-pytest
-requests
