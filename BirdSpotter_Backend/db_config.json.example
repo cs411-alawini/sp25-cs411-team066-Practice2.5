@@ -1,0 +1,9 @@
+{
+    "database": {
+        "host": "localhost",
+        "user": "YOUR_USERNAME",
+        "password": "YOUR_PASSWORD",
+        "database": "411_Database"
+    },
+    "debug": false
+} 

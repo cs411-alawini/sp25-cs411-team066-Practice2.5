@@ -1,0 +1,9 @@
+pyproject.toml
+bird_spotter/__init__.py
+bird_spotter/config.py
+bird_spotter/model.py
+bird_spotter.egg-info/PKG-INFO
+bird_spotter.egg-info/SOURCES.txt
+bird_spotter.egg-info/dependency_links.txt
+bird_spotter.egg-info/requires.txt
+bird_spotter.egg-info/top_level.txt
