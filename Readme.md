@@ -1,6 +1,6 @@
 # Team066-Practice2.5
 
-More Detail to be added
+Stage 4 final report is in the doc folder, and demo video link is inside that file.
 
 ## Prerequisites
 
